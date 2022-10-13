@@ -1,15 +1,31 @@
 .sidebar{
   width: 175px;
+  border: gray 1px solid;
+  display: inline-block;
 }
 
+p {
+  font-size: 12px;
+  font-family: sans-serif;
+  line-height: 1.6;
+}
 .topbar {
   height: 80px;
 }
 
+.content-header {
+  text-align: center;
+  background-color: #F9F9F9;
+  border: solid 1px #e9e8e8;
+  margin: 10px;;
+  padding-top: 10px;
+  font-family: sans-serif;
+
+}
+
 .main-page {
-  width: 100%;
-  position: relative;
-  float: right;
+  width: auto;
+  display: inline-block;
 }
 
 .preview1 img {
@@ -18,3 +34,14 @@
   margin: 20px;
 }
 
+.lc-heading {
+  width: auto;
+  background-color: #CEF2E0;
+}
+
+.left-content {
+  background-color: #F5FFFA;
+  padding: 10px;
+  border-color: #c1e9d5;
+  border:#c1e9d5 solid 1px;
+}
