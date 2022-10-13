@@ -1,0 +1,20 @@
+.sidebar{
+  width: 175px;
+}
+
+.topbar {
+  height: 80px;
+}
+
+.main-page {
+  width: 100%;
+  position: relative;
+  float: right;
+}
+
+.preview1 img {
+  width: 250px;
+  float: left;
+  margin: 20px;
+}
+
